@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adressi1987
 - 👀 I’m interested in Data science, Business intelligence 
 - 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on Power BI
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
